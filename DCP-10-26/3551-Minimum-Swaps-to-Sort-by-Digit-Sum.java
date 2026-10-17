@@ -1,6 +1,4 @@
-class Solution {
-    public int minSwaps(int[] nums) {
-        
+
 import java.util.*;
 
 class Solution {
@@ -56,8 +54,5 @@ class Solution {
         }
 
         return sum;
-    }
-}
-
     }
 }
